@@ -1,4 +1,4 @@
-[![Support](https://discordapp.com/api/guilds/147698382092238848/widget.png?style=shield)](https://discordapp.com/invite/GungVQZ)
+[![Support](https://discordapp.com/api/guilds/504423809126760448/widget.png?style=shield)](https://discordapp.com/invite/GungVQZ)
 # CanBot
 
 ## Un bot Discord simple de modération, fun et utilitaires
