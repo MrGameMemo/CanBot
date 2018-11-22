@@ -6,3 +6,5 @@
 Rejoignez le [serveur de développement CanBot](https://invite.gg/canbotsupport) afin d'y poster votre candidature !
 
 *La simplicité et la facilité d'utilisation le rendent efficace et pratique.*
+
+Si vous avez des suggestions d'ajout de commande ou d'autres modifications sur le bot, n'hésitez pas à me contacter sur Discord : **Mr Game#9298**.
