@@ -4,3 +4,5 @@
 
 ### CanBot est en recherche de staff et de développeurs.
 Rejoignez le [serveur de développement CanBot](https://invite.gg/canbotsupport) afin d'y poster votre candidature !
+
+*La simplicité et la facilité d'utilisation le rendent efficace et pratique.*
